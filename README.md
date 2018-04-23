@@ -6,6 +6,14 @@
 
 # Alpha Test
 ~~~
-  Language: English/Hungarina
-  Language settings: @Resources\varianles.ini (Language=####)
+Alpha Test
+ Language: English/Hungarina
+
+ Yahoo Weather: (HUN/ENG)
+    - Auto-location 
+    - Set location 
+    - Imperial units (F) 
+    - Metric units (C) 
+    - 12-hour time 
+    - 24-hour time 
 ~~~
