@@ -5,15 +5,11 @@
 ~~~
 
 # Alpha Test
-~~~
-Alpha Test
- Language: English/Hungarina
 
- Yahoo Weather: (HUN/ENG)
-    - Auto-location 
-    - Set location 
-    - Imperial units (F) 
-    - Metric units (C) 
-    - 12-hour time 
-    - 24-hour time 
+# Update
+~~~
+	Update April 24 1.0.3
+		Added Settings Menü
+				- Language: English/Hungarina
+				- Added resolutions: 1920x1080, 1280x720
 ~~~
